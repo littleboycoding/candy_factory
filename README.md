@@ -1,16 +1,30 @@
-# candy_factory
+# Candy Factory 🍭
 
-A new Flutter project.
+![example](/example.gif)
 
-## Getting Started
+Manage NFT collections manually can get crumblesome, creating metadata yourself usually get boring !
 
-This project is a starting point for a Flutter application.
+with Candy Factory, you just import any images, edit metadata and export that can easily be consumed.
 
-A few resources to get you started if this is your first Flutter project:
+All is done in graphical and consistent way !
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Cross-platform, native performance, powered by [Flutter](https://flutter.dev) 🐦
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feature
+- Import any image
+- Update metadata
+- Export (currently only support Pinata)
+
+## Idea ?
+- Deploy as candy machine smart contract
+- Setting OpenSea's attributes
+
+## Terms
+- [Candy machine](https://docs.metaplex.com/overviews/candy_machine_overview)
+- [NFT](https://en.wikipedia.org/wiki/Non-fungible_token)
+
+## Release ?
+No pre-built binary available (yet), however you can easily build it yourself with `flutter build` commands.
+
+## Motivation
+This project was created for Flutter/Dart learning purpose, hence part of my codebase can be bad 🍝
